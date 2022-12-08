@@ -1,0 +1,29 @@
+* {
+    color: black;
+    font-size: 18px
+}
+
+h4 {
+    color: red;
+}
+
+.Color-blue {
+    color: blue;
+}
+
+#color-01 {
+    color: green;
+}
+
+.Color-blue.light {
+    color: lightblue;
+}
+
+a[href = "https://google.com/"] {
+    color: deeppink;
+    text-decoration: none;
+}
+
+.seven p {
+    color: darkred;
+}
